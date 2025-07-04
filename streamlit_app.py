@@ -6,7 +6,7 @@ from neo4j import GraphDatabase
 # Neo4j config
 URI = "bolt://localhost:7687"
 USER = "neo4j"
-PASSWORD = "neo12345"
+PASSWORD = "neo4j12345"
 
 # Neo4j driver
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
