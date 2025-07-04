@@ -1,0 +1,4002 @@
+[
+  {
+    "question": "How can I track my order #1000?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1000 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1000 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1005?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1005 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1005 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1010?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1010 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1010 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1015?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1015 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1015 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1020?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1020 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1020 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1025?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1025 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1025 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1030?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1030 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1030 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1035?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1035 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1035 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1040?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1040 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1040 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order #1045?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order #1045 after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order #1045 value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order in the 'My Orders' section after logging into your account."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order before it is shipped by visiting 'My Orders'."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available for orders up to \u20b910,000."
+  },
+  {
+    "question": "Is there a warranty on electronic items?",
+    "answer": "Most electronics come with a 1-year manufacturer warranty."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery typically takes 3-5 business days."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit/debit cards, net banking, UPI, and wallet payments."
+  },
+  {
+    "question": "Can I return a product if I don't like it?",
+    "answer": "Yes, you can return products within 7 days of delivery for a full refund."
+  },
+  {
+    "question": "How do I change my delivery address?",
+    "answer": "Update your address in 'My Account' or select a different address during checkout."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Apply your coupon code on the checkout page before making payment."
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are processed within 5-7 business days after the return is picked up."
+  },
+  {
+    "question": "How do I write a product review?",
+    "answer": "Go to the product page and click on 'Write a Review'."
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, you can select gift wrapping during checkout for a small fee."
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Currently, we only ship within India."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us at support@ecommerce.com or call 1800-000-000."
+  },
+  {
+    "question": "What if I receive a damaged product?",
+    "answer": "Please raise a return request within 7 days to get a replacement or refund."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page and follow the steps."
+  },
+  {
+    "question": "Are there membership benefits?",
+    "answer": "Yes, members get free delivery, early access to sales, and special discounts."
+  },
+  {
+    "question": "Can I schedule a delivery?",
+    "answer": "We currently do not offer scheduled deliveries."
+  },
+  {
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Orders above \u20b9499 qualify for free shipping."
+  },
+  {
+    "question": "Do you sell refurbished products?",
+    "answer": "No, we only sell new and sealed products."
+  }
+]
