@@ -1,0 +1,332 @@
+[
+  {
+    "id": "P001",
+    "name": "Camera Model 1",
+    "category": "Cameras",
+    "price": "\u20b969374",
+    "features": [
+      "Optical Zoom",
+      "Wi-Fi",
+      "4K Recording"
+    ]
+  },
+  {
+    "id": "P002",
+    "name": "Headphone Model 2",
+    "category": "Headphones",
+    "price": "\u20b932543",
+    "features": [
+      "Deep Bass",
+      "Fast Pairing",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "id": "P003",
+    "name": "Smartwatche Model 3",
+    "category": "Smartwatches",
+    "price": "\u20b916211",
+    "features": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Long Battery"
+    ]
+  },
+  {
+    "id": "P004",
+    "name": "Smartphone Model 4",
+    "category": "Smartphones",
+    "price": "\u20b996302",
+    "features": [
+      "5000mAh Battery",
+      "Fast Charging",
+      "AMOLED Display"
+    ]
+  },
+  {
+    "id": "P005",
+    "name": "Camera Model 5",
+    "category": "Cameras",
+    "price": "\u20b982575",
+    "features": [
+      "Interchangeable Lens",
+      "Optical Zoom",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "id": "P006",
+    "name": "Smartwatche Model 6",
+    "category": "Smartwatches",
+    "price": "\u20b962887",
+    "features": [
+      "Sleep Tracking",
+      "Heart Rate Monitor",
+      "Long Battery"
+    ]
+  },
+  {
+    "id": "P007",
+    "name": "Smartphone Model 7",
+    "category": "Smartphones",
+    "price": "\u20b912858",
+    "features": [
+      "5G Support",
+      "5000mAh Battery",
+      "Fast Charging"
+    ]
+  },
+  {
+    "id": "P008",
+    "name": "Smartphone Model 8",
+    "category": "Smartphones",
+    "price": "\u20b939990",
+    "features": [
+      "Fast Charging",
+      "5G Support",
+      "5000mAh Battery"
+    ]
+  },
+  {
+    "id": "P009",
+    "name": "Camera Model 9",
+    "category": "Cameras",
+    "price": "\u20b931399",
+    "features": [
+      "Interchangeable Lens",
+      "Wi-Fi",
+      "High ISO"
+    ]
+  },
+  {
+    "id": "P010",
+    "name": "Smartwatche Model 10",
+    "category": "Smartwatches",
+    "price": "\u20b927607",
+    "features": [
+      "Water Resistant",
+      "Heart Rate Monitor",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "id": "P011",
+    "name": "Camera Model 11",
+    "category": "Cameras",
+    "price": "\u20b941529",
+    "features": [
+      "Wi-Fi",
+      "Optical Zoom",
+      "4K Recording"
+    ]
+  },
+  {
+    "id": "P012",
+    "name": "Camera Model 12",
+    "category": "Cameras",
+    "price": "\u20b915537",
+    "features": [
+      "Interchangeable Lens",
+      "Optical Zoom",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "id": "P013",
+    "name": "Smartwatche Model 13",
+    "category": "Smartwatches",
+    "price": "\u20b978964",
+    "features": [
+      "Long Battery",
+      "GPS",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "id": "P014",
+    "name": "Camera Model 14",
+    "category": "Cameras",
+    "price": "\u20b999588",
+    "features": [
+      "Optical Zoom",
+      "High ISO",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "id": "P015",
+    "name": "Headphone Model 15",
+    "category": "Headphones",
+    "price": "\u20b974977",
+    "features": [
+      "Long Battery Life",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "id": "P016",
+    "name": "Laptop Model 16",
+    "category": "Laptops",
+    "price": "\u20b962000",
+    "features": [
+      "512GB SSD",
+      "16GB RAM",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "id": "P017",
+    "name": "Smartphone Model 17",
+    "category": "Smartphones",
+    "price": "\u20b987870",
+    "features": [
+      "Fast Charging",
+      "Snapdragon Processor",
+      "5000mAh Battery"
+    ]
+  },
+  {
+    "id": "P018",
+    "name": "Camera Model 18",
+    "category": "Cameras",
+    "price": "\u20b962631",
+    "features": [
+      "Optical Zoom",
+      "High ISO",
+      "Wi-Fi"
+    ]
+  },
+  {
+    "id": "P019",
+    "name": "Camera Model 19",
+    "category": "Cameras",
+    "price": "\u20b950821",
+    "features": [
+      "Interchangeable Lens",
+      "4K Recording",
+      "Optical Zoom"
+    ]
+  },
+  {
+    "id": "P020",
+    "name": "Smartwatche Model 20",
+    "category": "Smartwatches",
+    "price": "\u20b956497",
+    "features": [
+      "Long Battery",
+      "Sleep Tracking",
+      "GPS"
+    ]
+  },
+  {
+    "id": "P021",
+    "name": "Headphone Model 21",
+    "category": "Headphones",
+    "price": "\u20b983110",
+    "features": [
+      "Noise Cancellation",
+      "Long Battery Life",
+      "Fast Pairing"
+    ]
+  },
+  {
+    "id": "P022",
+    "name": "Headphone Model 22",
+    "category": "Headphones",
+    "price": "\u20b969508",
+    "features": [
+      "Noise Cancellation",
+      "Long Battery Life",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "id": "P023",
+    "name": "Smartwatche Model 23",
+    "category": "Smartwatches",
+    "price": "\u20b972343",
+    "features": [
+      "Heart Rate Monitor",
+      "Water Resistant",
+      "GPS"
+    ]
+  },
+  {
+    "id": "P024",
+    "name": "Camera Model 24",
+    "category": "Cameras",
+    "price": "\u20b936574",
+    "features": [
+      "High ISO",
+      "Interchangeable Lens",
+      "Optical Zoom"
+    ]
+  },
+  {
+    "id": "P025",
+    "name": "Laptop Model 25",
+    "category": "Laptops",
+    "price": "\u20b955563",
+    "features": [
+      "16GB RAM",
+      "NVIDIA GPU",
+      "Intel i7"
+    ]
+  },
+  {
+    "id": "P026",
+    "name": "Laptop Model 26",
+    "category": "Laptops",
+    "price": "\u20b919762",
+    "features": [
+      "Intel i7",
+      "Backlit Keyboard",
+      "NVIDIA GPU"
+    ]
+  },
+  {
+    "id": "P027",
+    "name": "Camera Model 27",
+    "category": "Cameras",
+    "price": "\u20b99714",
+    "features": [
+      "Interchangeable Lens",
+      "Optical Zoom",
+      "4K Recording"
+    ]
+  },
+  {
+    "id": "P028",
+    "name": "Laptop Model 28",
+    "category": "Laptops",
+    "price": "\u20b945940",
+    "features": [
+      "16GB RAM",
+      "Intel i7",
+      "NVIDIA GPU"
+    ]
+  },
+  {
+    "id": "P029",
+    "name": "Smartphone Model 29",
+    "category": "Smartphones",
+    "price": "\u20b975547",
+    "features": [
+      "5000mAh Battery",
+      "5G Support",
+      "AMOLED Display"
+    ]
+  },
+  {
+    "id": "P030",
+    "name": "Laptop Model 30",
+    "category": "Laptops",
+    "price": "\u20b946472",
+    "features": [
+      "Backlit Keyboard",
+      "16GB RAM",
+      "NVIDIA GPU"
+    ]
+  }
+]

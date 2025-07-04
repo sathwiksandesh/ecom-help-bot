@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How can I return a product?",
+    "answer": "To return a product, go to 'My Orders', select the item, and click on 'Return'."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Log in and go to 'My Orders'. You can see the tracking status there."
+  },
+  {
+    "question": "What is the warranty on a product?",
+    "answer": "Most products come with a 1-year warranty. Check individual product pages for more."
+  },
+  {
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel before it is shipped from the 'My Orders' section."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, cash on delivery is available on most products under \u20b910,000."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery typically takes 3\u20137 business days depending on your location."
+  },
+  {
+    "question": "Can I change my delivery address after ordering?",
+    "answer": "Please contact support to change your address before the product is shipped."
+  },
+  {
+    "question": "Are there any delivery charges?",
+    "answer": "Delivery is free on orders above \u20b9500. Otherwise, a nominal charge applies."
+  },
+  {
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Please initiate a return within 7 days and select 'Received damaged product'."
+  },
+  {
+    "question": "How do I claim warranty on electronics?",
+    "answer": "Go to 'Warranty' section on the product page and follow the claim instructions."
+  }
+]
