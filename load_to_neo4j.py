@@ -59,7 +59,7 @@ def main():
         # If 'data' folder is inside 'graph' folder
         # with open(os.path.join(os.path.dirname(__file__), "..", "data", "large_sample_products.json")) as f:
         # If 'data' folder is sibling to 'graph' folder, and script is run from 'graph' folder
-        with open(os.path.join("..", "data", "large_sample_products.json")) as f: # <--- Try this first based on common project structure
+        with open(os.path.join("..", "data", "ecommerce_products_1000.json")) as f: # <--- Try this first based on common project structure
             products = json.load(f)
         category_cache = set()
         for product in products:
@@ -73,7 +73,7 @@ def main():
         # If 'data' folder is inside 'graph' folder
         # with open(os.path.join(os.path.dirname(__file__), "..", "data", "large_sample_faqs.json")) as f:
         # If 'data' folder is sibling to 'graph' folder, and script is run from 'graph' folder
-        with open(os.path.join("..", "data", "large_sample_faqs.json")) as f: # <--- Try this first based on common project structure
+        with open(os.path.join("..", "data", "realistic_ecommerce_faqs_1000.json")) as f: # <--- Try this first based on common project structure
             faqs = json.load(f)
         for faq in faqs:
             session.execute_write(load_faq, faq)
