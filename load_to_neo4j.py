@@ -3,9 +3,9 @@ import os
 from neo4j import GraphDatabase # Assuming neo4j is installed: pip install neo4j
 
 # === Neo4j Database Config ===
-URI = "neo4j+s://ba865ded.databases.neo4j.io"  # Use Neo4j Aura bolt URL if cloud
+URI = "bolt://localhost:7687"  # Use Neo4j Aura bolt URL if cloud
 USER = "neo4j"
-PASSWORD = "j-NsTY4fgYzYzNBabTwpZYepeUZvx2T-D_viAXpt0Ks"  # <- Replace with your actual password for Neo4j
+PASSWORD = "neo4j12345" 
 
 # === Connect to Neo4j ===
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
