@@ -4,9 +4,9 @@ import streamlit as st
 from neo4j import GraphDatabase
 
 # Neo4j config
-URI = "neo4j+s://ba865ded.databases.neo4j.io"
+URI = "bolt://localhost:7687"  # Use Neo4j Aura bolt URL if cloud
 USER = "neo4j"
-PASSWORD = "j-NsTY4fgYzYzNBabTwpZYepeUZvx2T-D_viAXpt0Ks"
+PASSWORD = "neo4j12345" 
 
 # Neo4j driver
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
