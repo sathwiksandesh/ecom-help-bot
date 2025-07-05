@@ -1,26 +1,23 @@
 from neo4j import GraphDatabase
-import re # Import regular expressions for better parsing
+import re
 
-# === Neo4j Database Config ===
-URI = "bolt://localhost:7687"  # Use Neo4j Aura bolt URL if cloud
+# === Neo4j Config ===
+URI = "bolt://localhost:7687"
 USER = "neo4j"
-PASSWORD = "neo4j12345"  # <- REPLACE WITH YOUR ACTUAL NEO4J PASSWORD
+PASSWORD = "neo4j12345"
 
-# === Connect to Neo4j ===
 try:
     driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
-    driver.verify_connectivity() # Test connection immediately
-    print("Successfully connected to Neo4j database.")
+    driver.verify_connectivity()
+    print("✅ Connected to Neo4j database.")
 except Exception as e:
-    print(f"Failed to connect to Neo4j: {e}")
-    print("Please ensure Neo4j is running and credentials/URI are correct.")
-    exit() # Exit if connection fails, as the bot won't work without it
+    print(f"❌ Failed to connect: {e}")
+    exit()
 
 
-# === Helper Functions ===
+# === Utility Functions ===
 
 def extract_product_name(query):
-    """More robust extraction: look for common phrases to get product name."""
     patterns = [
         r"(?:features|specs|price|cost|about)\s+of\s+(.+)",
         r"what is the (?:price|cost)\s+of\s+(.+)",
@@ -32,88 +29,67 @@ def extract_product_name(query):
         match = re.search(pattern, query, re.IGNORECASE)
         if match:
             return match.group(1).strip()
-    return query.strip() # Return original query if no specific pattern found
-
+    return query.strip()
 
 def extract_faq_keywords(question):
-    """Extracts relevant keywords from a user's question for FAQ matching."""
-    # Simple list of common English stop words that don't add much to search
     stop_words = set([
         "a", "an", "the", "what", "how", "do", "i", "me", "my", "can", "is", "are",
-        "about", "for", "of", "to", "in", "on", "with", "item", "product", "a", "an"
+        "about", "for", "of", "to", "in", "on", "with", "item", "product"
     ])
-    # Split question into words, convert to lowercase, and filter out stop words
     keywords = [
         word for word in re.findall(r'\b\w+\b', question.lower())
-        if word not in stop_words and len(word) > 2 # Ignore very short words
+        if word not in stop_words and len(word) > 2
     ]
-    return keywords
+    return set(keywords)
 
 
-# === Neo4j Query Functions ===
+# === Query Functions ===
 
 def get_product_features(product_name):
-    """Retrieves features for a given product name (case-insensitive, more flexible match)."""
-    # Use regex for flexible matching: allows for partial words and order variations
-    # Escaping special regex characters in product_name
-    escaped_product_name = re.escape(product_name)
-    # Create a regex pattern that matches if all words from product_name are present anywhere in the product name
-    # This is a more flexible approach than strict word boundaries or simple CONTAINS
-    keywords = escaped_product_name.lower().split()
-    regex_pattern = ".*" + ".*".join(keywords) + ".*"
-
+    escaped_name = re.escape(product_name.lower())
+    pattern = ".*" + ".*".join(escaped_name.split()) + ".*"
     query = f"""
     MATCH (p:Product)-[:hasFeature]->(f:Feature)
-    WHERE toLower(p.name) =~ '{regex_pattern}'
+    WHERE toLower(p.name) =~ '{pattern}'
     RETURN p.name AS product, collect(f.name) AS features
     """
     try:
         with driver.session() as session:
-            result = session.run(query) # No need to pass $name if using f-string for regex
+            result = session.run(query)
             records = result.data()
-
             if not records:
-                return f"No features found for a product matching '{product_name}'. Please try a different name."
-
-            responses = []
-            for r in records:
-                features = ", ".join(r['features'])
-                responses.append(f"Product: {r['product']} has features: {features}")
-            return "\n".join(responses)
+                return f"❌ No features found for '{product_name}'."
+            return "\n".join([
+                f"✅ Product: {r['product']} has features: {', '.join(r['features'])}"
+                for r in records
+            ])
     except Exception as e:
-        return f"An error occurred while fetching features: {e}"
+        return f"⚠️ Error: {e}"
 
 
 def get_product_price(product_name):
-    """Retrieves the price for a given product name (case-insensitive, more flexible match)."""
-    # Use regex for flexible matching, similar to get_product_features
-    escaped_product_name = re.escape(product_name)
-    keywords = escaped_product_name.lower().split()
-    regex_pattern = ".*" + ".*".join(keywords) + ".*"
-
+    escaped_name = re.escape(product_name.lower())
+    pattern = ".*" + ".*".join(escaped_name.split()) + ".*"
     query = f"""
     MATCH (p:Product)
-    WHERE toLower(p.name) =~ '{regex_pattern}'
+    WHERE toLower(p.name) =~ '{pattern}'
     RETURN p.name AS product, p.price AS price
     """
     try:
         with driver.session() as session:
-            result = session.run(query) # No need to pass $name if using f-string for regex
+            result = session.run(query)
             records = result.data()
-
             if not records:
-                return f"No price found for a product matching '{product_name}'. Please try a different name."
-
-            responses = []
-            for r in records:
-                responses.append(f"The price of {r['product']} is ${r['price']:.2f}.")
-            return "\n".join(responses)
+                return f"❌ No price info for '{product_name}'."
+            return "\n".join([
+                f"💲 Price of {r['product']} is ${r['price']:.2f}"
+                for r in records
+            ])
     except Exception as e:
-        return f"An error occurred while fetching the price: {e}"
+        return f"⚠️ Error: {e}"
 
 
-def list_products_in_category(category_name):
-    """Lists products belonging to a given category (case-insensitive, partial match)."""
+def list_products_in_category(category):
     query = """
     MATCH (p:Product)-[:belongsTo]->(c:Category)
     WHERE toLower(c.name) CONTAINS toLower($category)
@@ -121,87 +97,84 @@ def list_products_in_category(category_name):
     """
     try:
         with driver.session() as session:
-            result = session.run(query, category=category_name)
+            result = session.run(query, category=category)
             records = result.data()
-
             if not records:
-                return f"No products found in a category matching '{category_name}'. Please try a different category."
-
-            responses = []
-            for r in records:
-                products = ", ".join(r['products'])
-                responses.append(f"Products in the '{r['category']}' category: {products}")
-            return "\n".join(responses)
+                return f"❌ No products found in category '{category}'."
+            return "\n".join([
+                f"📦 Products in '{r['category']}': {', '.join(r['products'])}"
+                for r in records
+            ])
     except Exception as e:
-        return f"An error occurred while listing products: {e}"
+        return f"⚠️ Error: {e}"
 
 
 def get_faq_answer(keywords):
-    """Retrieves an answer for a given FAQ question using keywords (case-insensitive)."""
-    # This query checks if ANY of the provided keywords are contained in the FAQ question.
     query = """
     MATCH (q:FAQ)-[:hasAnswer]->(a:Answer)
-    WHERE ANY(keyword IN $keywords WHERE toLower(q.question) CONTAINS toLower(keyword))
     RETURN q.question AS question, a.text AS answer
-    LIMIT 1 // Limit to one best match for simplicity
     """
     try:
         with driver.session() as session:
-            result = session.run(query, keywords=keywords)
-            records = result.data()
+            result = session.run(query)
+            faqs = result.data()
 
-            if not records:
-                return None  # Return None for fallback handling
+            best_match = None
+            best_score = 0
 
-            r = records[0] # Take the first match
-            return f"Q: {r['question']}\nA: {r['answer']}"
+            for faq in faqs:
+                faq_words = set(re.findall(r'\b\w+\b', faq["question"].lower()))
+                score = len(faq_words.intersection(keywords))
+                if score > best_score:
+                    best_score = score
+                    best_match = faq
+
+            if best_match and best_score > 0:
+                return f"📘 Q: {best_match['question']}\n📖 A: {best_match['answer']}"
+            return None
+
     except Exception as e:
-        return f"An error occurred while fetching FAQ: {e}"
+        return f"⚠️ FAQ Error: {e}"
 
 
-# === Main Chatbot Logic ===
+# === Main Bot Loop ===
+
 def main():
-    print("Welcome to the E-commerce Chatbot!")
-    print("You can ask me about product features, prices, or categories, and general FAQs.")
-    print("Try asking: 'What are the features of Laptop X?', 'How much is the Smartphone Y?', 'List products in Electronics', or 'How do I return an item?'")
-    print("Type 'exit' to quit.")
+    print("🤖 Welcome to the E-commerce AI Help Bot!")
+    print("Type your query about products, categories, or general FAQs.")
+    print("Type 'exit' to quit.\n")
 
     while True:
-        q = input("You: ")
-        q_lower = q.lower().strip()
+        q = input("You: ").strip().lower()
 
-        if q_lower == "exit":
-            print("Bot: Goodbye! Have a great day!")
+        if q in ["exit", "quit", "bye"]:
+            print("Bot: 👋 Goodbye!")
             break
-        elif any(word in q_lower for word in ["hi", "hello", "hey", "greetings"]):
-            print("Bot: Hi there! How can I assist you today?")
-        elif any(word in q_lower for word in ["thank you", "thanks", "ok", "okay"]):
-            print("Bot: You're welcome! Is there anything else I can help with?")
-        elif "feature" in q_lower or "spec" in q_lower:
-            product_name = extract_product_name(q_lower)
-            print("Bot:", get_product_features(product_name))
-        elif "price" in q_lower or "cost" in q_lower or "how much" in q_lower:
-            product_name = extract_product_name(q_lower)
-            print("Bot:", get_product_price(product_name))
-        elif "product" in q_lower and ("category" in q_lower or "in" in q_lower):
-            # Simple category extraction (can be improved with more NLP)
-            match = re.search(r"in\s+(.+)", q_lower)
-            category_name = match.group(1).strip() if match else ""
-            if category_name:
-                print("Bot:", list_products_in_category(category_name))
-            else:
-                print("Bot: Please specify the category you're interested in (e.g., 'List products in Electronics').")
+        elif any(word in q for word in ["hello", "hi", "hey"]):
+            print("Bot: 👋 Hi! How can I assist you today?")
+        elif "return" in q or "refund" in q:
+            print("Bot: 🔄 You can return items from 'My Orders' if eligible.")
+        elif "help" in q:
+            print("Bot: 🆘 I can assist with product features, prices, categories, and FAQs.")
+        elif "warranty" in q:
+            print("Bot: 🛡️ Warranty info is usually listed in product details.")
+        elif "feature" in q or "spec" in q:
+            name = extract_product_name(q)
+            print("Bot:", get_product_features(name))
+        elif "price" in q or "cost" in q:
+            name = extract_product_name(q)
+            print("Bot:", get_product_price(name))
+        elif "product" in q and "in" in q:
+            match = re.search(r"in\s+(.+)", q)
+            category = match.group(1) if match else ""
+            print("Bot:", list_products_in_category(category))
         else:
-            # Try FAQ as a fallback
-            faq_keywords = extract_faq_keywords(q_lower)
-            if faq_keywords: # Only query if we have valid keywords
-                answer = get_faq_answer(faq_keywords)
-                if answer:
-                    print("Bot:", answer)
-                else:
-                    print("Bot: I'm not sure about that. Could you rephrase or ask about product features, prices, categories, or common questions?")
-            else: # If no meaningful keywords extracted
-                print("Bot: I'm not sure about that. Could you rephrase or ask about product features, prices, categories, or common questions?")
+            keywords = extract_faq_keywords(q)
+            answer = get_faq_answer(keywords)
+            if answer:
+                print("Bot:", answer)
+            else:
+                print("Bot: 🤔 Sorry, I couldn't find anything. Try asking differently!")
 
 
 if __name__ == "__main__":
